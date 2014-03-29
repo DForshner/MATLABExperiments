@@ -1,4 +1,4 @@
 MATLABExperiments
 =================
 
-A collection of scripts mostly involving the bio-electrical signal analysis.
+This is an archive of exploratory (throw away) code in case I want to find it later.
